@@ -1,0 +1,30 @@
+{
+"name": "javascript-variables",
+"version": "1.0.0",
+"description": "How to use JavaScript variables",
+"main": "index.html",
+"scripts": {
+  "start": "parcel index.html --open",
+  "build": "parcel build index.html"
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/hantunes/JavaScript_Variables.git"
+},
+"author": "Hugo Antunes",
+"license": "ISC",
+"bugs": {
+  "url": "https://github.com/hantunes/JavaScript_Variables/issues"
+},
+"homepage": "https://github.com/hantunes/JavaScript_Variables#readme",
+
+"dependencies": { "parcel-bundler": "^1.6.1" },
+"devDependencies": {
+  "@babel/core": "7.2.0",
+  "typescript": "4.4.4"
+},
+"resolutions": {
+  "@babel/preset-env": "7.13.8"
+},
+"keywords": ["javascript", "starter"]
+}
