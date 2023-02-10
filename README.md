@@ -1,2 +1,2 @@
 # JavaScript_Variables
-Use variables in JavaScript
+How to use variables in JavaScript
