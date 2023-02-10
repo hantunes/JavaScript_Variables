@@ -1,6 +1,5 @@
 import "./styles.css";
 
-var a = 6;
 // declare the variables
 var x = 5;
 var y = 6;
